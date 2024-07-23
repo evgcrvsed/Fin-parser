@@ -1,0 +1,109 @@
+{
+  "start_menu_buttons_text": {
+    "to_vacancies": {
+      "en": "To vacancies",
+      "ru": "К вакансиям",
+      "fi": "Avoimiin työpaikkoihin"
+    },
+    "about": {
+      "en": "About Service",
+      "ru": "О Сервисе",
+      "fi": "Tietoja palvelusta"
+    },
+    "support": {
+      "en": "Support",
+      "ru": "Поддержка",
+      "fi": "Tuki"
+    },
+    "more": {
+      "en": "More our services",
+      "ru": "Больше наших сервисов",
+      "fi": "Lisää palveluitamme"
+    },
+    "settings": {
+      "en": "Settings",
+      "ru": "Настройки",
+      "fi": "Asetukset"
+    }
+  },
+  "start_menu_text": {
+    "en": "*ℹ️ Kanzu Navigation📌*\n\nPlease select option in which you are interested\\.",
+    "ru": "*ℹ️ Навигация Kanzu📌*\n\nПожалуйста, выберите интересующий вас вариант\\.",
+    "fi": "*ℹ️ Kanzu Navigointi📌*\n\nValitse kiinnostava vaihtoehto\\."
+  },
+  "prepare_vacancies_text": {
+    "en": "Please press the keyboard button to start tracking relevant vacancies",
+    "ru": "Пожалуйста, нажмите кнопку клавиатуры, чтобы начать отслеживать подходящие вакансии",
+    "fi": "Lähetä näppäimistön painike aloittaaksesi relevanttien avointen työpaikkojen seurannan"
+  },
+  "vacancies_start_prepare_tracking_text": {
+    "en": "Start tracking vacancies",
+    "ru": "Начать отслеживание вакансий",
+    "fi": "Aloita työpaikkojen seuranta"
+  },
+  "vacancies_stop_prepare_tracking_text": {
+    "en": "Stop tracking vacancies",
+    "ru": "Прекратить отслеживание вакансий",
+    "fi": "Lopeta työpaikkojen seuranta"
+  },
+  "vacancies_stopped_tracking_text": {
+    "en": "🛑 Tracking successfully stopped.",
+    "ru": "🛑 Отслеживание успешно остановлено.",
+    "fi": "🛑 Seuranta onnistuneesti lopetettu."
+  },
+  "vacancies_started_tracking_text": {
+    "en": "✅ Tracking started successfully,\n\n⚠️ Please be aware that vacancies won't be showed too often. The reason is that our service tracks vacancies from other websites and depends on them.",
+    "ru": "✅ Отслеживание успешно начато,\n\n⚠️ Обратите внимание, что вакансии могут не появляться слишком часто. Это связано с тем, что наш сервис отслеживает вакансии на других веб-сайтах и зависит от них.",
+    "fi": "✅ Seuranta aloitettu onnistuneesti,\n\n⚠️ Huomioi, että työpaikkoja ei ehkä näy kovin usein. Tämä johtuu siitä, että palvelumme seuraa työpaikkoja muilta verkkosivustoilta ja riippuu niistä."
+  },
+  "vacancies_to_vacancy_text": {
+    "en": "To vacancy",
+    "ru": "К вакансии",
+    "fi": "Avointa paikkaa kohti"
+  },
+  "general_to_menu_text": {
+    "en": "To main menu",
+    "ru": "В главное меню",
+    "fi": "Päävalikkoon"
+  },
+  "settings_text": {
+    "en": "*⚙️ Settings ⚙️*\n\nPlease select the language that is convenient for you\\.\n\nIf you want to quit this section then press the *Menu* button",
+    "ru": "⚙️ Настройки ⚙️\n\nВыберите язык который вам удобен\\.\n\nЕсли вы хотите выйти из данной секции, нажмите на *Меню*",
+    "fi": "⚙️ Asetukset ⚙️\n\nValitse sinulle sopiva kieli\\.\n\nJos haluat poistua tästä osiosta, paina *Valikko* - painiketta"
+  },
+  "help_text": {
+    "en": "*❓ Kanzu Support ❓*\n\nIf you encountered any difficulties with our service, you can reach out to our managers via their Telegram profiles below:\n\n1st manager: @SkyFyFamily\n2nd manager: @woodmanbtw\n\n⚠️ Please remember to be kind and observe the rules of decency while contacting our managers.\n\n⚠️ Please note that due to a large number of requests, response times may take up to 24 hours.",
+    "ru": "*❓ Поддержка Kanzu ❓*\n\nЕсли у вас возникли сложности с нашим сервисом, вы можете связаться с нашими менеджерами через их профили в Telegram ниже:\n\n1-й менеджер: @SkyFyFamily\n2-й менеджер: @woodmanbtw\n\n⚠️ Пожалуйста, помните о вежливости и соблюдайте правила приличия при общении с нашими менеджерами.\n\n⚠️ Обратите внимание, что из-за большого количества запросов время ответа может составить до 24 часов.",
+    "fi": "*❓ Kanzu Tuki ❓*\n\nJos kohtaat vaikeuksia palvelumme kanssa, voit ottaa yhteyttä johtajiimme heidän Telegram-profiileidensa kautta:\n\n1. johtaja: @SkyFyFamily\n2. johtaja: @woodmanbtw\n\n⚠️ Muista olla kohtelias ja noudattaa hyvän käytöksen sääntöjä ottaessasi yhteyttä johtajiimme.\n\n⚠️ Huomaa, että suuren kysynnän vuoksi vastausajat voivat olla jopa 24 tuntia."
+  },
+  "info_text": {
+    "en": "ℹ️ About Our Service:\n\n🔄 Every day, KanzuBot monitors numerous vacancies from the following websites:\n\n- Barona\n- Oikotie\n- Eezy\n\nAccordingly, it sends you relevant vacancies tailored to your skills and preferences.\n\n✅ What Our Clients Receive:\nA consistent monthly stream of hot leads actively searching for specialists like you.",
+    "ru": "ℹ️ О нашем сервисе:\n\n🔄 Каждый день KanzuBot отслеживает множество вакансий на следующих веб-сайтах:\n\n- Barona\n- Oikotie\n- Eezy\n\nСоответственно, он отправляет вам подходящие вакансии, соответствующие вашим навыкам и предпочтениям.\n\n✅ Что получают наши клиенты:\nПостоянный ежемесячный поток горячих лидов, активно ищущих специалистов, таких как вы.",
+    "fi": "ℹ️ Tietoa Palvelustamme:\n\n🔄 Joka päivä KanzuBot seuraa lukuisia avoimia työpaikkoja seuraavilta verkkosivuilta:\n\n- Barona\n- Oikotie\n- Eezy\n\nSen mukaisesti se lähettää sinulle relevantteja työpaikkoja, jotka vastaavat taitojasi ja mieltymyksiä.\n\n✅ Mitä asiakkaamme saavat:\nJatkuvan kuukausittaisen virran kuumista liideistä, jotka etsivät aktiivisesti asiantuntijoita kuten sinua."
+  },
+  "command_start_text": {
+    "en": "Menu",
+    "ru": "Меню",
+    "fi": "Valikko"
+  },
+  "command_start_help": {
+    "en": "Help",
+    "ru": "Помощь",
+    "fi": "Apua"
+  },
+  "command_start_info": {
+    "en": "Info",
+    "ru": "Информация",
+    "fi": "Tietoa"
+  },
+  "command_start_settings": {
+    "en": "Settings",
+    "ru": "Настройки",
+    "fi": "Asetukset"
+  },
+  "command_start_about": {
+    "en": "About Us",
+    "ru": "О нас",
+    "fi": "Tietoja meistä"
+  }
+}
