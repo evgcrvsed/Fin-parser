@@ -16,6 +16,8 @@ router = Router()
 
 class MyCallbackData(CallbackData, prefix="_"):
     param: str
+
+
 @router.message(Command("start"))
 @router.callback_query(F.data == "start")
 async def start(clb) -> None:

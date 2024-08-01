@@ -14,7 +14,6 @@ from modules.parsers.oikotie import Oikotie
 from dotenv import load_dotenv
 
 
-
 load_dotenv()
 
 db = DataBase('data/database.db')
@@ -68,7 +67,7 @@ async def parsers():
     while True:
         await parse_barona()
         await parse_eezy()
-        await parse_oikotie()
+        # await parse_oikotie()
 
         users = await db.get_all_users()
         print(users)
@@ -102,7 +101,7 @@ async def parsers():
 
 
 async def main():
-    await asyncio.gather(main_bot())
+    await asyncio.gather(main_bot(), parsers())
 
 
 if __name__ == '__main__':
